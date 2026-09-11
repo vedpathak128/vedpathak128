@@ -44,12 +44,6 @@
       <p>A Python-based voice assistant integrating speech recognition, text-to-speech (pyttsx3), the Groq API for fast LLM responses, and automation modules for opening apps and browsing the web.</p>
       <code>Python</code> <code>Groq API</code> <code>speech_recognition</code>
     </td>
-    <td width="50%">
-      <h4>⚛️ Quantum Algorithm Learning Platform</h4>
-      <p>An interactive platform (planned for SIH 2026) letting users write and run quantum algorithms in-browser, with AI-guided explanations built on Qiskit/PennyLane.</p>
-      <code>FastAPI</code> <code>Qiskit</code> <code>React</code> <code>Three.js</code>
-    </td>
-  </tr>
   <tr>
     <td width="50%">
       <h4>💬 AI Chatbot</h4>
